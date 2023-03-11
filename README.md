@@ -1,0 +1,2 @@
+# bypassgpt
+bypasses chat gpt
